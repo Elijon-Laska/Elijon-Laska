@@ -61,7 +61,7 @@ Poi ho riscoperto la mia vecchia passione per l’IT e ho deciso di **cambiare v
 
 ### 📊 GitHub Stats
 
-<div style="text-align: center;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Elijon-Laska&show_icons=true&theme=react&hide_border=true" alt="Elijon's GitHub Stats" />
 </div>
 
@@ -69,7 +69,7 @@ Poi ho riscoperto la mia vecchia passione per l’IT e ho deciso di **cambiare v
 
 ### 🧑‍💻 Linguaggi più usati
 
-<div style="text-align: center;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elijon-Laska&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 </div>
 
@@ -77,7 +77,7 @@ Poi ho riscoperto la mia vecchia passione per l’IT e ho deciso di **cambiare v
 
 ### 🏆 GitHub Achievements
 
-<div style="text-align: center;">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Elijon-Laska&theme=algolia&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
@@ -85,7 +85,7 @@ Poi ho riscoperto la mia vecchia passione per l’IT e ho deciso di **cambiare v
 
 ### 🔗 Link Utili
 
-<div style="text-align: center;">
+<div align="center">
   <a href="https://www.linkedin.com/in/elijon-laska/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -100,7 +100,7 @@ Poi ho riscoperto la mia vecchia passione per l’IT e ho deciso di **cambiare v
 
 ---
 
-<div style="text-align: center;">
+<div align="center">
   💼 Sono pronto per nuove sfide!  
   📫 Contattami via email: <a href="mailto:laskaelijon95@gmail.com">laskaelijon95@gmail.com</a>
   📞 Chiamami: +39 388 750 5204
