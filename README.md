@@ -2,7 +2,7 @@
   
 # Ciao 👋, sono Elijon!
 
-<img src="./assets/copertinaa.png" alt="Elijon GitHub Banner" width="450" heigth="400"  />
+<img src="./assets/copertinaa.png" alt="Elijon GitHub Banner" width="500" heigth="350"  />
 
 ### From Restaurant to REST API 🍝 → 💻
 
