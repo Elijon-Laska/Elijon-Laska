@@ -1,6 +1,6 @@
 <div align="center">
   
-# Ciao 👋, sono Elijon!
+Ciao 👋, sono Elijon!
 
 <img src="./assets/copertina.png" alt="Elijon GitHub Banner" />
 
