@@ -6,7 +6,7 @@
 
 ### From Restaurant to REST API 🍝 → 💻
 
-<img src="./assets/immagine-profilo.png" alt="Elijon Profile" width="200" />
+<img src="./assets/immagine-profiloo.png" alt="Elijon Profile" width="200" />
 
 </div>
 
