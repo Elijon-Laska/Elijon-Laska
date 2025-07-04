@@ -14,30 +14,34 @@
 
 ### 🚀 Tech Stack
 
-⚛️ Front-End
-- Linguaggi: **JavaScript**, TypeScript
-- Framework & Librerie: React.js, Redux
-- Stili & UI: Bootstrap, Sass, CSS3
-- Struttura DOM e manipolazione dinamica
-- HTML5 semantico per accessibilità e SEO
-☕ Back-End
-- Linguaggi: Java
-- Framework: Spring Boot, Spring Framework
-- Programmazione ad Oggetti (OOP)
-- Testing: JUnit
-- REST API: strutturazione con controller, service e repository
-- Gestione Sicurezza: autenticazione con JWT
-🐘 Database
-- Relazionali: PostgreSQL, SQL
-- ORM: JPA (Java Persistence API)
-☁️ Strumenti & Tecnologie Aggiuntive
-- Versioning: Git, GitHub
-- Deployment & Hosting: Cloudinary
-- Servizi: Email Service Sender
-- Debug & Testing API: Postman, Swagger
-- IDE: Visual Studio Code, IntelliJ IDEA
-- Metodologie: Agile, Scrum
-- Hooks in React per gestione stato e side-effect
+
+### ⚛️ Front-End
+- **Languages**: JavaScript, TypeScript
+- **Frameworks & Libraries**: React.js, Redux, Bootstrap
+- **Styling**: Sass, CSS3, HTML5
+- **Tooling**: Vite, ESLint, React DevTools
+- **State Management**: Redux, React Context API
+- **Design**: Responsive UI, component-based architecture
+
+### ☕ Back-End
+- **Languages**: Java
+- **Frameworks**: Spring Boot, Spring Framework
+- **Concepts**: Object-Oriented Programming (OOP), MVC Pattern
+- **API Development**: RESTful Services, CRUD Operations
+- **Authentication**: JWT Token, Role-based Access Control
+- **Testing**: JUnit, Postman, Swagger
+
+### 🐘 Database
+- **RDBMS**: PostgreSQL
+- **ORM**: Java Persistence API (JPA)
+- **Data Modeling**: Entity Relationships, DTO Mapping
+
+### ☁️ Tools & Platforms
+- **Version Control**: Git, GitHub
+- **Cloud Services**: Cloudinary (Image Hosting), Email Service Sender
+- **IDE & Dev Environment**: Visual Studio Code, IntelliJ IDEA
+- **Documentation & Collaboration**: Swagger, Agile/Scrum Workflow
+
 
 
 ---
