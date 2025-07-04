@@ -14,10 +14,31 @@
 
 ### 🚀 Tech Stack
 
-- ⚛️ Front-End: **JavaScript**, **React**, **Redux**, **Bootstrap**, **Sass**
-- ☕ Back-End: **Java**, **Spring Boot**
-- 🐘 Database: **PostgreSQL**
-- ☁️ Altri strumenti: **Cloudinary**, **Email Service Sender**,
+⚛️ Front-End
+- Linguaggi: **JavaScript**, TypeScript
+- Framework & Librerie: React.js, Redux
+- Stili & UI: Bootstrap, Sass, CSS3
+- Struttura DOM e manipolazione dinamica
+- HTML5 semantico per accessibilità e SEO
+☕ Back-End
+- Linguaggi: Java
+- Framework: Spring Boot, Spring Framework
+- Programmazione ad Oggetti (OOP)
+- Testing: JUnit
+- REST API: strutturazione con controller, service e repository
+- Gestione Sicurezza: autenticazione con JWT
+🐘 Database
+- Relazionali: PostgreSQL, SQL
+- ORM: JPA (Java Persistence API)
+☁️ Strumenti & Tecnologie Aggiuntive
+- Versioning: Git, GitHub
+- Deployment & Hosting: Cloudinary
+- Servizi: Email Service Sender
+- Debug & Testing API: Postman, Swagger
+- IDE: Visual Studio Code, IntelliJ IDEA
+- Metodologie: Agile, Scrum
+- Hooks in React per gestione stato e side-effect
+
 
 ---
 
