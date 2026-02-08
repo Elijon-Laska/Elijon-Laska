@@ -1,9 +1,9 @@
 <div align="center">
 
-  <img src="./assets/copertinaa.png" alt="Elijon GitHub Banner" width="100%" />
+  <img src="./assets/copertinaa.png" alt="Elijon GitHub Banner" width="600" />
 
-  # Elijon Laska
-  ### Full Stack Developer (Java | Spring Boot | React)
+  <h1>Elijon Laska</h1>
+  <h3>Full Stack Developer (Java | Spring Boot | React)</h3>
 
   <p>
     <em>Ex Restaurant Manager turned Developer.</em><br>
@@ -23,9 +23,16 @@
   </div>
 </div>
 
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Elijon-Laska&show_icons=true&theme=radical&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elijon-Laska&layout=compact&theme=radical&hide_border=true&langs_count=6" height="160" alt="Top Languages" />
+</div>
+
 ---
 
-### 🛠 Tech Stack & Arsenal
+### 🛠 Tech Stack
 
 Non elenco tutto ciò che ho toccato una volta, ma quello che uso in produzione.
 
@@ -45,17 +52,6 @@ Un sistema completo di prenotazione e gestione ordini.
 * **Backend:** Java 17, Spring Boot 3, Spring Security (JWT + RBAC).
 * **Frontend:** React, Redux Toolkit, Axios interceptors.
 * **Key Feature:** Integrazione Cloudinary per gestione media e notifiche email asincrone.
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/Elijon-Laska">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elijon-Laska&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elijon-Laska&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" />
-  </a>
-</div>
 
 ---
 
