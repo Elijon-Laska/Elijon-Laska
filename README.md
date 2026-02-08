@@ -1,132 +1,42 @@
 <div align="center">
-  
-# Ciao 👋, sono Elijon!
+  <img src="./assets/copertinaa.png" alt="Elijon GitHub Banner" width="300" />
 
-<img src="./assets/copertinaa.png" alt="Elijon GitHub Banner" width="400" heigth="200"  />
+  <h1>Elijon Laska</h1>
+  <h3>Full Stack Developer (Java | Spring Boot | React)</h3>
 
-### From Restaurant to REST API 🍝 → 💻
+  <p>
+    <em>Ex Restaurant Manager turned Developer.</em><br>
+    Porto la gestione dello stress e l'organizzazione della sala nel codice backend.
+  </p>
 
-<img src="./assets/immagine-profiloo.png" alt="Elijon Profile" width="200" />
-
+  <div>
+    <a href="https://www.linkedin.com/in/elijon-laska/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:laskaelijon95@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://elijonlaska.com" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+    </a>
+  </div>
 </div>
 
----
-
-### 🚀 Tech Stack
-
-
-### ⚛️ Front-End
-- **Languages**: JavaScript, TypeScript
-- **Frameworks & Libraries**: React.js, Redux, Bootstrap
-- **Styling**: Sass, CSS3, HTML5
-- **Tooling**: Vite, ESLint, React DevTools
-- **State Management**: Redux, React Context API
-- **Design**: Responsive UI, component-based architecture
-
-### ☕ Back-End
-- **Languages**: Java
-- **Frameworks**: Spring Boot, Spring Framework
-- **Concepts**: Object-Oriented Programming (OOP), MVC Pattern
-- **API Development**: RESTful Services, CRUD Operations
-- **Authentication**: JWT Token, Role-based Access Control
-- **Testing**: JUnit, Postman, Swagger
-
-### 🐘 Database
-- **RDBMS**: PostgreSQL
-- **ORM**: Java Persistence API (JPA)
-- **Data Modeling**: Entity Relationships, DTO Mapping
-
-### ☁️ Tools & Platforms
-- **Version Control**: Git, GitHub
-- **Cloud Services**: Cloudinary (Image Hosting), Email Service Sender
-- **IDE & Dev Environment**: Visual Studio Code, IntelliJ IDEA
-- **Documentation & Collaboration**: Swagger, Agile/Scrum Workflow
-
-
-
----
-
-### 🔍 Progetti in Evidenza
-
-#### 🍽️ [frontend-capstone-eglerestaurant](https://github.com/Elijon-Laska/frontend-capston-eglerestaurant)
-
-App responsive per ristorante costruita in **React + Redux**, interfaccia moderna e UX intuitiva.  
-Permette agli utenti di prenotare, scoprire i piatti e navigare in una piattaforma dinamica.
-
-#### 🔧 [backend_Capstone_EgleRestaurant](https://github.com/Elijon-Laska/backend_Capstone_EgleRestaurnat)
-
-REST API realizzata in **Java + Spring Boot** per gestire utenti, prenotazioni, piatti ed esperienze.  
-Include funzionalità avanzate come gestione immagini via **Cloudinary** e invio notifiche via mail.
-
-🎓 Entrambi fanno parte del mio **Capstone Project** per la fine del corso _Full Stack Developer_ presso **Epicode**.
-
----
-
-### 🎯 Obiettivi per il 2025
-
-Trovare un’azienda solida e stimolante dove crescere professionalmente, collaborare in team dinamici e contribuire con passione e competenza.
-
----
-
-### 📚 Cosa sto studiando ora
-
-- Approfondimento su **Angular**, **Node.js** e **TypeScript**
-- Testing front-end e back-end
-- Scrittura di codice più scalabile e manutenibile
-
----
-
-### 🧠 Fun Fact su di me
-
-Per 10 anni ho lavorato come **responsabile di sala** in un ristorante.  
-Questa esperienza mi ha insegnato gestione, comunicazione e leadership.  
-Poi ho riscoperto la mia vecchia passione per l’IT e ho deciso di **cambiare vita, imparando a programmare da zero.**
-
----
-
-### 📊 GitHub Stats
+<br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elijon-Laska&show_icons=true&theme=react&hide_border=true" alt="Elijon's GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/Elijon-Laska/Elijon-Laska/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
-### 🧑‍💻 Linguaggi più usati
+### 🛠 Tech Stack & Tools
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elijon-Laska&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-### 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Elijon-Laska&theme=algolia&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</div>
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **☕ Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat-square&logo=spring-boot&logoColor=6DB33F) ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=postman&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white) |
+| **⚛️ Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **🗄️ Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) |
+| **☁️ DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
 ---
-
-### 🔗 Link Utili
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/elijon-laska/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://talent.epicode.com/talent/7267d520-2230-4d3d-8c2c-69fdba00353e" target="_blank">
-    <img src="https://img.shields.io/badge/-Epicode_Talent_Profile-darkred?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Epicode Talent Profile" />
-  </a>
-  <a href="./assets/Certificato_Full_Stack_Developer.jpg">  <img src="https://img.shields.io/badge/Full_Stack_Dev-FACC15?style=for-the-badge&logo=Visual+Studio+Code&logoColor=black" alt="Full Stack Developer" /></a>
-  <a href="./assets/CV_Elijon_Laska.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/-Curriculum_Vitae-0a9396?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV Elijon Laska" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  💼 Sono pronto per nuove sfide!  
-  📫 Contattami via email: <a href="mailto:laskaelijon95@gmail.com">laskaelijon95@gmail.com</a>
-  📞 Chiamami: +39 388 750 5204
-</div>
