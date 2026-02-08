@@ -1,132 +1,66 @@
 <div align="center">
-  
-# Ciao 👋, sono Elijon!
 
-<img src="./assets/copertinaa.png" alt="Elijon GitHub Banner" width="400" heigth="200"  />
+  <img src="./assets/copertinaa.png" alt="Elijon GitHub Banner" width="100%" />
 
-### From Restaurant to REST API 🍝 → 💻
+  # Elijon Laska
+  ### Full Stack Developer (Java | Spring Boot | React)
 
-<img src="./assets/immagine-profiloo.png" alt="Elijon Profile" width="200" />
+  <p>
+    <em>Ex Restaurant Manager turned Developer.</em><br>
+    Porto la gestione dello stress e l'organizzazione della sala nel codice backend.
+  </p>
 
+  <div>
+    <a href="https://www.linkedin.com/in/elijon-laska/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:laskaelijon95@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://elijonlaska.com" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+    </a>
+  </div>
 </div>
 
 ---
 
-### 🚀 Tech Stack
+### 🛠 Tech Stack & Arsenal
 
+Non elenco tutto ciò che ho toccato una volta, ma quello che uso in produzione.
 
-### ⚛️ Front-End
-- **Languages**: JavaScript, TypeScript
-- **Frameworks & Libraries**: React.js, Redux, Bootstrap
-- **Styling**: Sass, CSS3, HTML5
-- **Tooling**: Vite, ESLint, React DevTools
-- **State Management**: Redux, React Context API
-- **Design**: Responsive UI, component-based architecture
-
-### ☕ Back-End
-- **Languages**: Java
-- **Frameworks**: Spring Boot, Spring Framework
-- **Concepts**: Object-Oriented Programming (OOP), MVC Pattern
-- **API Development**: RESTful Services, CRUD Operations
-- **Authentication**: JWT Token, Role-based Access Control
-- **Testing**: JUnit, Postman, Swagger
-
-### 🐘 Database
-- **RDBMS**: PostgreSQL
-- **ORM**: Java Persistence API (JPA)
-- **Data Modeling**: Entity Relationships, DTO Mapping
-
-### ☁️ Tools & Platforms
-- **Version Control**: Git, GitHub
-- **Cloud Services**: Cloudinary (Image Hosting), Email Service Sender
-- **IDE & Dev Environment**: Visual Studio Code, IntelliJ IDEA
-- **Documentation & Collaboration**: Swagger, Agile/Scrum Workflow
-
-
+| **Backend Core** | **Frontend Ecosystem** | **Data & DevOps** |
+|:---:|:---:|:---:|
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
+| ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat-square&logo=spring-boot&logoColor=6DB33F) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![Rest API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=postman&logoColor=white) | ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ---
 
-### 🔍 Progetti in Evidenza
+### 🏗 Selected Projects
 
-#### 🍽️ [frontend-capstone-eglerestaurant](https://github.com/Elijon-Laska/frontend-capston-eglerestaurant)
-
-App responsive per ristorante costruita in **React + Redux**, interfaccia moderna e UX intuitiva.  
-Permette agli utenti di prenotare, scoprire i piatti e navigare in una piattaforma dinamica.
-
-#### 🔧 [backend_Capstone_EgleRestaurant](https://github.com/Elijon-Laska/backend_Capstone_EgleRestaurnat)
-
-REST API realizzata in **Java + Spring Boot** per gestire utenti, prenotazioni, piatti ed esperienze.  
-Include funzionalità avanzate come gestione immagini via **Cloudinary** e invio notifiche via mail.
-
-🎓 Entrambi fanno parte del mio **Capstone Project** per la fine del corso _Full Stack Developer_ presso **Epicode**.
+#### 🍝 [Egle Restaurant Platform (Full Stack)](https://github.com/Elijon-Laska/backend_Capstone_EgleRestaurnat)
+Un sistema completo di prenotazione e gestione ordini.
+* **Architecture:** Monolithic architecture with RESTful exposition.
+* **Backend:** Java 17, Spring Boot 3, Spring Security (JWT + RBAC).
+* **Frontend:** React, Redux Toolkit, Axios interceptors.
+* **Key Feature:** Integrazione Cloudinary per gestione media e notifiche email asincrone.
 
 ---
 
-### 🎯 Obiettivi per il 2025
-
-Trovare un’azienda solida e stimolante dove crescere professionalmente, collaborare in team dinamici e contribuire con passione e competenza.
-
----
-
-### 📚 Cosa sto studiando ora
-
-- Approfondimento su **Angular**, **Node.js** e **TypeScript**
-- Testing front-end e back-end
-- Scrittura di codice più scalabile e manutenibile
-
----
-
-### 🧠 Fun Fact su di me
-
-Per 10 anni ho lavorato come **responsabile di sala** in un ristorante.  
-Questa esperienza mi ha insegnato gestione, comunicazione e leadership.  
-Poi ho riscoperto la mia vecchia passione per l’IT e ho deciso di **cambiare vita, imparando a programmare da zero.**
-
----
-
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elijon-Laska&show_icons=true&theme=react&hide_border=true" alt="Elijon's GitHub Stats" />
-</div>
-
----
-
-### 🧑‍💻 Linguaggi più usati
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elijon-Laska&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-### 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Elijon-Laska&theme=algolia&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</div>
-
----
-
-### 🔗 Link Utili
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/elijon-laska/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://talent.epicode.com/talent/7267d520-2230-4d3d-8c2c-69fdba00353e" target="_blank">
-    <img src="https://img.shields.io/badge/-Epicode_Talent_Profile-darkred?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Epicode Talent Profile" />
-  </a>
-  <a href="./assets/Certificato_Full_Stack_Developer.jpg">  <img src="https://img.shields.io/badge/Full_Stack_Dev-FACC15?style=for-the-badge&logo=Visual+Studio+Code&logoColor=black" alt="Full Stack Developer" /></a>
-  <a href="./assets/CV_Elijon_Laska.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/-Curriculum_Vitae-0a9396?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV Elijon Laska" />
+  <a href="https://github.com/Elijon-Laska">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elijon-Laska&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elijon-Laska&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" />
   </a>
 </div>
 
 ---
 
-<div align="center">
-  💼 Sono pronto per nuove sfide!  
-  📫 Contattami via email: <a href="mailto:laskaelijon95@gmail.com">laskaelijon95@gmail.com</a>
-  📞 Chiamami: +39 388 750 5204
-</div>
+### ⚡ Why Me?
+Passare da **Restaurant Manager** a **Developer** non è solo un cambio carriera, è un upgrade del mindset.
+* **Gestione Risorse:** Prima gestivo turni e inventario, ora gestisco Thread e Memoria.
+* **Problem Solving:** Ho risolto crisi con clienti urlanti; un NullPointerException non mi spaventa.
+* **Focus:** Cerco ruoli backend/full-stack dove le architetture a microservizi siano lo standard, non l'eccezione.
