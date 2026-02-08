@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/copertinaa.png" alt="Elijon GitHub Banner" height="200" />
+  <img src="./assets/copertinaa.png" alt="Elijon GitHub Banner" height="200" width="400" />
 
   <h1>Elijon Laska</h1>
   <h3>Full Stack Developer (Java | Spring Boot | React)</h3>
