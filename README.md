@@ -1,6 +1,5 @@
 <div align="center">
-
-  <img src="./assets/copertinaa.png" alt="Elijon GitHub Banner" width="600" />
+  <img src="./assets/copertinaa.png" alt="Elijon GitHub Banner" width="400" />
 
   <h1>Elijon Laska</h1>
   <h3>Full Stack Developer (Java | Spring Boot | React)</h3>
@@ -26,15 +25,12 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elijon-Laska&show_icons=true&theme=radical&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elijon-Laska&layout=compact&theme=radical&hide_border=true&langs_count=6" height="160" alt="Top Languages" />
+  <img src="https://github.com/Elijon-Laska/Elijon-Laska/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
 ### 🛠 Tech Stack
-
-Non elenco tutto ciò che ho toccato una volta, ma quello che uso in produzione.
 
 | **Backend Core** | **Frontend Ecosystem** | **Data & DevOps** |
 |:---:|:---:|:---:|
@@ -46,17 +42,14 @@ Non elenco tutto ciò che ho toccato una volta, ma quello che uso in produzione.
 
 ### 🏗 Selected Projects
 
-#### 🍝 [Egle Restaurant Platform (Full Stack)](https://github.com/Elijon-Laska/backend_Capstone_EgleRestaurnat)
-Un sistema completo di prenotazione e gestione ordini.
-* **Architecture:** Monolithic architecture with RESTful exposition.
-* **Backend:** Java 17, Spring Boot 3, Spring Security (JWT + RBAC).
-* **Frontend:** React, Redux Toolkit, Axios interceptors.
-* **Key Feature:** Integrazione Cloudinary per gestione media e notifiche email asincrone.
+#### 🍝 [Egle Restaurant Platform](https://github.com/Elijon-Laska/backend_Capstone_EgleRestaurnat)
+Un sistema completo di prenotazione e gestione ordini (Monolithic RESTful).
+* **Stack:** Java 17, Spring Boot 3, React, PostgreSQL.
+* **Highlight:** Gestione asincrona notifiche e integrazione Cloudinary.
 
 ---
 
 ### ⚡ Why Me?
-Passare da **Restaurant Manager** a **Developer** non è solo un cambio carriera, è un upgrade del mindset.
 * **Gestione Risorse:** Prima gestivo turni e inventario, ora gestisco Thread e Memoria.
-* **Problem Solving:** Ho risolto crisi con clienti urlanti; un NullPointerException non mi spaventa.
-* **Focus:** Cerco ruoli backend/full-stack dove le architetture a microservizi siano lo standard, non l'eccezione.
+* **Resilienza:** Ho risolto crisi in sala per 10 anni; il debugging è relax a confronto.
+* **Obiettivo:** Consolidare competenze in architetture a microservizi.
